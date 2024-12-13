@@ -1,6 +1,5 @@
 // Navbar.jsx
 import React from 'react';
-import { Link } from 'react-scroll';  // Importing react-scroll for smooth scrolling
 
 const Navbar = () => {
   return (
